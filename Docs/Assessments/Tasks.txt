@@ -1,3 +1,15 @@
+
+Instructions on Assessments: 
+    1. two MCQ Assessments
+        1. Assessment one: Due 20/11/2026 
+            Encore Global || Claude Architecture Program || Vijay Reddy || Online || 3 Nov 2026 – 26 Nov 2026 post test
+            https://forms.cloud.microsoft/r/W4WEmGc7Ky
+    2. two coding assessments: training hours 
+        1. IT Support Chat Bot 
+        2. Agentic AI Solution [?] 
+            vibe coding -> claude code 
+
+
 Task 1: Create a console based chat bot where get the inputs from user and print it in console as conversation
 
 Algorithm: 
