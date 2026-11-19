@@ -1,0 +1,5 @@
+anthropic
+voyageai
+python-dotenv
+streamlit
+mcp>=2
