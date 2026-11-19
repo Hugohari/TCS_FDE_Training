@@ -36,7 +36,10 @@
     
     webserver -> localhost:3000
 
+    Rest -> resource
 
+    URL: scheme://ip:port/path to resource/resource/pathvariable
+                        /api/v1/employees/emp1
 
 
 

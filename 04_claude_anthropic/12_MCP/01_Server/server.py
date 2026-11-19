@@ -18,7 +18,7 @@ from mcp.server import MCPServer
 mcp_server = MCPServer(name="TCSMcpServer", version="1.0.0")
 
 
-@mcp_server.tool(name="add")
+@mcp_server.tool(name="add", description="add two numbers of type float")
 def add(a: float, b: float) -> str:
     return str(a + b)
 
