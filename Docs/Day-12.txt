@@ -25,6 +25,21 @@
                 desing figma
 
 
+    A2A -> microsoft, google
+
+    MCP Server [local, server - streamable_http]
+    libraries -> FastMCP, MCPServer [framework]
+    tools
+        addition 
+        api data 
+        static information
+    
+    webserver -> localhost:3000
+
+
+
+
+
 
 
 

@@ -15,7 +15,7 @@ import httpx
 from fastapi import FastAPI
 from mcp.server import MCPServer
 
-mcp_server = MCPServer(name="Demo", version="1.0.0")
+mcp_server = MCPServer(name="TCSMcpServer", version="1.0.0")
 
 
 @mcp_server.tool(name="add")
@@ -38,7 +38,7 @@ async def get_todos() -> str:
         data = response.json()
     return f"Todos: {data}"
 
-
+# details of the resource
 @mcp_server.resource("greeting://{name}")
 def greeting(name: str) -> str:
     return f"Hello, {name}!"
